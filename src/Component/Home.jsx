@@ -27,19 +27,19 @@ function Home() {
         </div>
         <div className='heroLeftClaim'>
           <img height={45} width={45} src="watch.svg" alt="" />
-          <p><span>20,000+</span> Job relevant courses  </p>
+          <p><span>20,000+</span> Hours of content  </p>
         </div>
         <div className='heroLeftClaim'>
           <img height={45} width={45} src="tv.svg" alt="" />
-          <p><span>Exclusive</span> Job relevant courses  </p>
+          <p><span>Exclusive</span> webinar access  </p>
         </div>
         <div className='heroLeftClaim'>
           <img height={45} width={45} src="education.svg" alt="" />
-          <p>Job relevant courses <span>₹94,500</span> </p>
+          <p>Scholarship worth <span>₹94,500</span> </p>
         </div>
         <div className='heroLeftClaim'>
           <img height={45} width={45} src="watch.svg" alt="" />
-          <p><span>Ad Free</span> Job relevant courses  </p>
+          <p><span>Ad Free</span> Learning experience  </p>
         </div>
         <div>
 
