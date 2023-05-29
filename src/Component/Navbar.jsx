@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="nav">
       <div className="navLeft">
-        <p className="logoText">EDYODHA</p>
+        <p className="logoText">EDYODA</p>
 
         <div className="navLeftSelect">
           <p>Cources</p>
